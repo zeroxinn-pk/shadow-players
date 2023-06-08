@@ -1,1 +1,5 @@
+## account setup
+gmail
+hotmail
+github 
 
