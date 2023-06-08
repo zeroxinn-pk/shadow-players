@@ -5,7 +5,32 @@ github
 tryhackme
 
 
+tools install
+gramarly
+notepad++
+
+VPN
+windscrib
+browsec
+
+FREELANCE 
+
+
 VIRTUAL MACHINE
 Windows Server 2003
 Windows Server 2019
 Kali Linux (latest)
+
+POC
+
+nikto use 
+whatweb use
+dirb use 
+sslscan use 
+nmap installation
+nmap use
+
+netsparker use
+netsparker instal 
+nessus installation
+nessues use
