@@ -1,5 +1,10 @@
-## account setup
+account setup
 gmail
 hotmail
 github 
 
+
+VIRTUAL MACHINE
+Windows Server 2003
+Windows Server 2019
+Kali Linux (latest)
