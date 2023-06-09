@@ -36,7 +36,27 @@ ZEROXINN
   FULL TIME 
   PROJECT BASED 
 
-
+cyber security jd
+  soc
+    soc l1
+    soc l2
+  pentest
+    web
+    mobile
+    cloud
+  GRC
+    ISO27 
+    NIST
+    COBIT 
+  blue team
+    SIEM (AV, Onion, ............)
+    FW
+    AV
+    EDR
+    SOC
+  red team
+  purple team
+  
 
 ------------------------------------------------------------
 
