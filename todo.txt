@@ -1,25 +1,127 @@
-account setup
-gmail
-hotmail
-github 
-tryhackme
+
+ACCOUNT SETUPS
+  gmail
+  hotmail
+  github 
+  tryhackme
 
 
-tools install
-gramarly
-notepad++
-
-VPN
-windscrib
-browsec
-
+----------------------------------------------------------
+WORKSTATION SETUP
+  tools install
+  gramarly
+  notepad++
+  office
+  
+  VMWARE WORKSTATION
+    SERVER 2019
+    SERVER 2003
+    KALI LINUX (LATEST)
+      CONTAINERS - ABDULLAH 
+        DOCKER CONTAINERS 
+        
+  VPN
+    windscrib
+    browsec
+    
+    
+-----------------------------------------------------------
 FREELANCE 
 
 
-VIRTUAL MACHINE
-Windows Server 2003
-Windows Server 2019
-Kali Linux (latest)
+
+
+------------------------------------------------------------
+
+GITLAB DEVSECOPS - TAYYABA
+
+GITLAB BASED
+  initial ppt 
+  SDLC
+  devops 
+  devsecops
+  SAST
+  DAST
+
+  github account
+  gitlab account 
+  c hello world code - visual studio
+  c hello world code - kali linux - gcc 
+  c hello world code - github 
+
+
+---------------------------------------------
+AZURE - NASIR
+OVERALL ENVIRONMENT 
+  FEATURES
+  SENITEL / SIEM
+  ACTIVE DIRECTORY (GROUPS, TENANTS) - POC  
+  VM CREATE DEMO (GUI) - POC 
+  VM CREATE POWERSHELL - POC  
+  VM CREATE (CLI) - POC 
+  5 DOMAINS 
+  
+  AZURE CERTIFICATIONS
+    
+  
+PENTEST
+  CERTIFICATIONS 
+  
+  
+DEVOPS
+  TOOLS
+  
+DEVSECOPS
+  TOOLS
+  
+---------------------------------------------
+
+AWS / AMAZON - UMAIR 
+OVERALL ENVIRONMENT 
+  FEATURES
+  SENITEL / SIEM
+  AD 
+  
+PENTEST
+  
+DEVOPS
+
+DEVSECOPS
+---------------------------------------------
+
+
+GCP / GOOGLE 
+OVERALL ENVIRONMENT 
+  FEATURES
+  SENITEL / SIEM
+  AD 
+PENTEST
+  
+DEVOPS
+DEVSECOPS
+
+
+---------------------------------------------
+
+OPERATIONAL TECHNOLOGY / OT / INDUSTRIAL CONTROL SYSTEMS 
+
+OVERALL ENVIRONMENT
+
+PENTEST
+
+---------------------------------------------
+
+MOBILE APPS
+
+OVERALL TECHNOLOGY / ENVIRONMENT 
+
+PENTEST
+
+DEVLOPMENT 
+
+---------------------------------------------
+
+WEB APPS
 
 POC
 
@@ -35,22 +137,7 @@ netsparker instal
 nessus installation
 nessues use
 
-
-DEVSECOPS
-initial ppt 
-SDLC
-devops 
-devsecops
-SAST
-DAST
-
-github account
-gitlab account 
-c hello world code - visual studio
-c hello world code - kali linux - gcc 
-c hello world code - github 
-
-
+----------------------------
 
 
 
