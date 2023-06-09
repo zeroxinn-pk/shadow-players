@@ -27,7 +27,14 @@ WORKSTATION SETUP
     
 -----------------------------------------------------------
 FREELANCE 
-
+INDUSTRY
+  123
+  123
+  123
+ZEROXINN
+  PART TIME 
+  FULL TIME 
+  PROJECT BASED 
 
 
 
