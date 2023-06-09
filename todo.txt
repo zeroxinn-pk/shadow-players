@@ -37,4 +37,22 @@ nessues use
 
 
 DEVSECOPS
+initial ppt 
+SDLC
+devops 
+devsecops
+SAST
+DAST
+
+github account
+gitlab account 
+c hello world code - visual studio
+c hello world code - kali linux - gcc 
+c hello world code - github 
+
+
+
+
+
+
 
