@@ -34,3 +34,7 @@ netsparker use
 netsparker instal 
 nessus installation
 nessues use
+
+
+DEVSECOPS
+
