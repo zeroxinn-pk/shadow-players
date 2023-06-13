@@ -12,6 +12,7 @@ WORKSTATION SETUP
   gramarly
   notepad++
   office
+  lightshoot (for screenshots)
   
   VMWARE WORKSTATION
     SERVER 2019
