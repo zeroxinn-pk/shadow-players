@@ -171,6 +171,30 @@ nessues use
 ----------------------------
 
 
+# SHADOW PLAYERS
+
+## NASIR
+### ACCOUNT SETUP
+### AZURE 
+#### OVERVIEW
+Windows VM create 
+
+## ABULLAH
+### ACCOUNT SETUP
+
+## GHOSIA 
+### ACCOUNT SETUP
+
+## ASIF
+### ACCOUNT SETUP
+### WEB PENTEST
+XML Entity Injection labs solve portswigger 
+
+
+## TAYYABA
+### DEVSECOPS
+
+
 
 
 
