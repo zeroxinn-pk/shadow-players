@@ -1,30 +1,29 @@
+# ACCOUNT SETUPS
+gmail
+hotmail
+github 
+tryhackme
+portswigger 
 
-ACCOUNT SETUPS
-  gmail
-  hotmail
-  github 
-  tryhackme
+# WORKSTATION SETUP
+gramarly
+notepad++
+office
+lightshoot (for screenshots)
 
+## VMWARE WORKSTATION
+SERVER 2019
+SERVER 2003
+### KALI LINUX (LATEST)
+CONTAINERS - ABDULLAH 
+DOCKER CONTAINERS 
+KUBERNETES
 
-----------------------------------------------------------
-WORKSTATION SETUP
-  tools install
-  gramarly
-  notepad++
-  office
-  lightshoot (for screenshots)
-  
-  VMWARE WORKSTATION
-    SERVER 2019
-    SERVER 2003
-    KALI LINUX (LATEST)
-      CONTAINERS - ABDULLAH 
-        DOCKER CONTAINERS 
-        
-  VPN
-    windscrib
-    browsec
-    
+#VPN
+windscrib
+browsec
+proton 
+
     
 -----------------------------------------------------------
 FREELANCE 
