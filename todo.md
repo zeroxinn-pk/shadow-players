@@ -274,7 +274,6 @@ Windows VM create
 
 XML Entity Injection labs solve portswigger 
 
-
 ### ACCOUNT SETUP
 
 ## ASIF
@@ -283,7 +282,7 @@ XML Entity Injection labs solve portswigger
 
 ### WEB PENTEST
 
-XML Entity Injection labs solve portswigger 
+Server-side template injection labs solve portswigger
 
 
 ## TAYYABA
