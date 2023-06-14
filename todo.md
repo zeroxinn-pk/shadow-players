@@ -1,8 +1,12 @@
 # ACCOUNT SETUPS
 gmail
+
 hotmail
+
 github 
+
 tryhackme
+
 portswigger 
 
 # WORKSTATION SETUP
